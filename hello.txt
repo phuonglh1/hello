@@ -1,1 +1,3 @@
-hello toi code them chuc nang moi 0
+if(2==1){
+	a=1;
+}	
