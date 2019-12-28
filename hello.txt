@@ -1,3 +1,2 @@
-if(1==1){
-	a=1;
-}	
+hello toi code them chuc nang moi
+dinh sy hung
